@@ -1,1 +1,1 @@
-bye bye microsoft. please visit https://git.osuv.de/m/markuman/L-nano
+bye bye microsoft. please visit https://git.osuv.de/m/L-nano
